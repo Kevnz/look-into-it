@@ -1,0 +1,19 @@
+{
+  "name": "look-into-it",
+  "version": "0.0.0",
+  "description": "look-into-it\r ============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kevnz/look-into-it.git"
+  },
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/Kevnz/look-into-it/issues"
+  },
+  "homepage": "https://github.com/Kevnz/look-into-it"
+}
